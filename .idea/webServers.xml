@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f4bea4dd-cc14-4c2c-b702-e2d1712e3533" name="rothermel.com.br PROD" url="https://rothermel.com.br">
+        <fileTransfer host="rothermel.com.br" port="21" username="deploy@atonmidia.com.br" password="dfcedf99dfdadfc6df9adfd3">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

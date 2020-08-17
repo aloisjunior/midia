@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources/assets/_frontend/js_template/plugins/slider.revolution.v5/php/twitter" isTestSource="false" packagePrefix="TwitterPhp" />
+      <sourceFolder url="file://$MODULE_DIR$/public/_frontend/js/plugins/slider.revolution.v5/php/twitter" isTestSource="false" packagePrefix="TwitterPhp" />
+      <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" packagePrefix="AtonMidia" />
+      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/dump_db" />
+      <excludeFolder url="file://$MODULE_DIR$/public/_backend" />
+      <excludeFolder url="file://$MODULE_DIR$/public/_frontend" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/assets/_frontend/js_template" />
+      <excludeFolder url="file://$MODULE_DIR$/resources/views - Copia" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/neutron/temporary-filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pbmedia/binary-driver" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pbmedia/laravel-ffmpeg" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pbmedia/php-ffmpeg" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/translation-contracts" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

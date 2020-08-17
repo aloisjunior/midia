@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+/public
+/resources/assets/_backend
+/resources/assets/_frontend
+/resources/assets/comum
+/resources/assets/img
+/resources/assets/fonts
